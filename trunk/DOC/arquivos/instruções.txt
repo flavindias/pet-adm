@@ -1,0 +1,18 @@
+1 - Criar layout da tela de acesso ao site
+	 - Parecido com o face, twitter .... duas caixas :
+	 		uma com a descrição do sistema (Texto no arquivo doc)
+	 		e outra com o login e botão de cadastre-se
+2 - Criar tela de cadastro
+	-	Dados : login, senha, nome, cpf, email
+
+3 - Layout do sistema , igual ao arquivo interface.psd
+
+
+Para tudo isso é precisso criar
+
+Controllers
+- UsersControler
+- HomeController
+
+Models
+- User
